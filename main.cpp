@@ -7,7 +7,6 @@ int division(int a, int b){
 
 
 int main() {
-    division(8,4);
-    cout << division << endl;
+    cout << division(8,4) << endl;
     return 0;
 }
