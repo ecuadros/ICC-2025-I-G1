@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+int resta(int a, int b) {
+    return a - b;
+}
 
 int suma(int a, int b){
     return a+b
